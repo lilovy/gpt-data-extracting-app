@@ -159,4 +159,3 @@ flagged
 test.py
 resources/*
 prompts/*
-!prompts/prompt.txt
