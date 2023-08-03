@@ -157,9 +157,6 @@ results/.database
 results/.files
 flagged
 test.py
-# resources/*
-resources/cookies
-resources/mails
-resources/proxies
+resources/*
 prompts/*
 !prompts/prompt.txt
