@@ -1,0 +1,4 @@
+﻿It is a special prompt that
+allows you to extract data
+from the content received
+by a language model (LM).
